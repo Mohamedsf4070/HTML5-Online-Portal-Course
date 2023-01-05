@@ -1,0 +1,16 @@
+#leftbox
+{
+    width: 250px;
+    border: 2px solid black;
+    padding-bottom: 20px;
+    float: left;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#rightbox
+{
+    float: left;
+    width: 250px;
+    height: 168px;
+    border: 2px solid black;
+}
