@@ -1,0 +1,76 @@
+.outer
+{
+    background-color: rgb(77, 203, 253);
+    margin-left: 350px;
+    width: 550px;
+    height: 850px;
+    box-shadow: 6px 6px 2px rgb(182, 161, 161);
+    padding-top: 35px;
+    padding-bottom: 14px;
+}
+.section1
+{
+    width: 410px;
+    height: 800px;
+    margin-bottom: 8px;
+    margin-left: 70px;
+    background-color: white;
+    padding-top: 20px;
+}
+.section1 p:first-child
+{
+    margin: 0px;
+    font-weight: bold;
+    color: rgb(255, 127, 22);
+    font-family:'Montserrat', sans-serif;
+    padding: 0px;
+    font-size: 30px;
+    margin-left: 25px;
+}
+.section1 p:nth-child(2)
+{
+    margin-left: 25px;   
+    font-family:'Montserrat', sans-serif;
+    font-size: 13px; 
+    font-weight: bold;
+}
+.One
+{
+    margin-top: 10px;
+    font-family:'Montserrat', sans-serif;
+    margin-left: 25px;  
+    height: 33px; 
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin-bottom: 10px;
+}
+.Two
+{
+    font-family:'Montserrat', sans-serif;
+    margin-top: 10px;
+    margin-left: 25px;  
+    height: 103px; 
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin-bottom: 10px; 
+}
+#button
+{
+    margin-top: 10px;
+    font-family:'Montserrat', sans-serif;
+    width: 337px;
+    margin-left: 25px;  
+    height: 43px; 
+    border-radius: 10px;
+    border: 1px solid gray;
+    margin-bottom: 10px;
+    background-color: rgb(77, 203, 253);
+}
+.section2
+{
+    font-family:'Montserrat';
+    font-size: 14px;
+    width: 350px;
+    height: 290px;
+    margin-left: 25px;
+}
