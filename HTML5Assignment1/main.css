@@ -1,3 +1,4 @@
+
 .outer
 {
     background-color: rgb(77, 203, 253);
@@ -69,8 +70,10 @@
 .section2
 {
     font-family:'Montserrat';
-    font-size: 14px;
+    font-size: 15px;
     width: 350px;
     height: 290px;
     margin-left: 25px;
+    padding: 0px;
+    
 }
